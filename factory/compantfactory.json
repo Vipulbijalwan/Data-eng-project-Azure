@@ -1,0 +1,9 @@
+{
+	"name": "compantfactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd24bf93-1986-4b08-808a-97a91d2388a0",
+		"tenantId": "03b17786-6d87-4826-b8a4-87956dfa4ad5"
+	}
+}
