@@ -1,0 +1,19 @@
+{
+	"name": "ds_url",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStoragehttp",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "git.json",
+				"fileSystem": "parameters"
+			}
+		},
+		"schema": {}
+	}
+}
